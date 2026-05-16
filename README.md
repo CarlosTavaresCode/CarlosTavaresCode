@@ -1,6 +1,6 @@
 ### Olá! Eu sou Carlos Tavares 🖐️
 
-🎓 **Estudante de Matemática na UFAL | 💻 Desenvolvedor Full-Stack**
+🎓 **Estudante de Matemática na UFAL | 💻 Desenvolvedor Front-End/Back-End**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosTavaresCode/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-tavares-37361956/)
@@ -10,8 +10,8 @@
 
 ### 👨‍💻 Sobre mim
 
-* 📍 Baseado em Maceió - AL.
-* 🚀 Desenvolvedor Full-Stack com forte base em lógica e resolução de problemas (graças à Matemática!).
+* 📍 Residente em Maceió - AL.
+* 🚀 Desenvolvedor Back-end com forte base em lógica e resolução de problemas (graças à Matemática!).
 * 💡 Atualmente focado no ecossistema JavaScript/TypeScript, construindo arquiteturas escaláveis e automações inteligentes.
 * 📚 Apaixonado por tecnologia, animes, thrillers psicológicos e por sempre aprender coisas novas.
 
